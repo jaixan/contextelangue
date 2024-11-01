@@ -1,0 +1,12 @@
+{
+  "app.titre": "Facture",
+  "facture.soustotal": "Sous-total : ",
+  "facture.taxes": "Taxes : ",
+  "facture.total": "Total : ",
+  "facture.item": "Article",
+  "facture.prix": "Prix",
+  "facture.quantite": "Quantité",
+  "facture.nomclient": "Nom du client : ",
+  "facture.date": "Date : ",
+  "facture.heure": "Heure : "
+}
